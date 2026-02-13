@@ -1,0 +1,34 @@
+GREEN INITIATIVE WEBSITE DOCUMENTATION
+
+Developer: [Your Name]
+Unit: Web Design and Development
+Project: NGO Website Prototype
+
+Technologies Used
+- HTML5
+- External CSS
+
+Structure
+The website consists of 7 interlinked pages:
+Home, About, Activities, Portfolio, Projects, Gallery, Contact, Donate.
+
+Design Choices
+- Green color theme represents sustainability.
+- Dropdown navigation improves usability.
+- Cards layout improves readability.
+- Responsive layout supports mobile devices.
+
+Features Implemented
+- Navigation bar
+- Dropdown menu
+- Video embedding
+- Table
+- Lists
+- Form
+- Responsive design
+- Hover animations
+
+Folder Organization
+CSS, images, and videos stored locally to ensure offline functionality.
+
+End of Documentation
